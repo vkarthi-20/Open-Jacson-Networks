@@ -15,10 +15,6 @@ Visual components and Python
 
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
-
-## Experiment:
-
-
 ## Program
 Name: KARTHI V
 Reg no: 212225230130
@@ -72,3 +68,4 @@ print("--------------------------------------------------------------")
 ## Result
 
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+https://github.com/vkarthi-20/Open-Jacson-Networks.git
